@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programeringforloops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e9666882f682ab1be0d3067880331d2632808b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42183e6a27d1175c2a027d324c264c8804e3f9fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programeringforloops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programeringforloops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
